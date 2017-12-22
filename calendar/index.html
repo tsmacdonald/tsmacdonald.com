@@ -1,0 +1,39 @@
+---
+layout: page
+title: Calendar
+image: /assets/images/singandstomplandscape.jpg
+nav-menu: true
+---
+
+{% capture currentUnixTimestamp %}{{ "now" | date: "%s" }}{% endcapture %}
+
+<h2>Upcoming performances</h2>
+<table class="calendar">
+  {%for event in site.data.calendar.last.events %}
+    {% capture eventUnixTimestamp %}{{ event.date | date: "%s" }}{% endcapture %}
+
+    {% if eventUnixTimestamp > currentUnixTimestamp %}
+      {% include custom/calendar_event.html pastOrFuture="future" %}
+    {% endif %}
+  {% endfor %}
+</table>
+
+<h2>Past performances</h2>
+{%for season in site.data.calendar reversed %}
+  <h3 class="calendar-season-title">
+    {{ season.season }}
+    <span class="calendar-season-title-arrow">&#9656;</span>
+  </h3>
+  <div class="calendar-season">
+    <table class="calendar">
+      {%for event in season.events %}
+        {% capture eventUnixTimestamp %}{{ event.date | date: "%s" }}{% endcapture %}
+        {% if eventUnixTimestamp < currentUnixTimestamp %}
+          {% include custom/calendar_event.html pastOrFuture="past" %}
+        {% endif %}
+      {% endfor %}
+    </table>
+  </div>
+{% endfor %}
+
+<p>Interested in having Tim play at your event? <a href="mailto:tim@tsmacdonald.com">Book him now!</a></p>

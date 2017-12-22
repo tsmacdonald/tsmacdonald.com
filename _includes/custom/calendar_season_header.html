@@ -1,0 +1,6 @@
+{% if event.season != currentSeason %}
+  <tr class="calendar-past calendar-season-header" data-season="{{ event.season }}">
+    <td colspan="2"><h3>{{ event.season }} season</h3></td>
+  </tr>
+  {% assign currentSeason = event.season %}
+{% endif %}

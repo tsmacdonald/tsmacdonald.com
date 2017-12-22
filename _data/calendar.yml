@@ -1,0 +1,773 @@
+- season: 2014-2015
+  events:
+
+  - date: 2015-01-31
+    time: 7:30pm
+    title: "[St. Andrews Society Burns Supper](http://www.chicagoscots.org/burnssupper/)"
+    location: Chicago, IL
+
+  - date: 2015-03-20
+    time: 8pm
+    title: "[Scottish Concert](http://sprott.physics.wisc.edu/mscd/ball2015.htm) with [Susie Petrov](http://www.susiepetrov.com)"
+    location: Madison, WI
+
+  - date: 2015-03-21
+    time: 7:30pm
+    title: "[Scottish Country Dance Ball](http://sprott.physics.wisc.edu/mscd/ball2015.htm) with [Susie Petrov](http://www.susiepetrov.com)"
+    location: Madison, WI
+
+  - date: 2015-04-6
+    time: 7pm
+    title: "[English Country Dance](http://www.fnal.gov/orgs/folkdance/english/) called by [Susan de Guardiola](http://www.kickery.com/) with [The Cosmic Otters](http://thecosmicotters.com/)"
+    location: Oak Park, IL
+
+  - date: 2015-04-10
+    time: 12pm
+    title: "Bluegrass performance in honor of [Rod Whitacre](http://www.tsm.edu/whitacrecelebration)"
+    location: Ambridge, PA
+
+  - date: 2015-05-02
+    time: 7pm
+    title: "[English Country Dance](http://www.urbana-contra.org/sched_summer.html) with [Old Fezziwig's Band](http://www.oldfezziwigsband.com)"
+    location: Urbana, IL
+
+  - date: 2015-05-03
+    time: 7pm
+    title: "[Scottish Country Dance](http://www.rscds-chicago.org/) with [Kate Shuldiner](/shuldiner.html)"
+    location: Chicago, IL
+
+  - date: 2015-05-05
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2015-05-12
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2015-05-17
+    time: 2pm
+    title: "Free Scottish performance with [Jeremy Ward](http://www.jeremydavidward.com/)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2015-05-18
+    time: 7pm
+    title: "[English Country Dance](http://www.fnal.gov/orgs/folkdance/english/) with [Old Fezziwig's Band](http://www.oldfezziwigsband.com/)"
+    location: Oak Park, IL
+
+  - date: 2015-05-19
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2015-05-26
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2015-05-27
+    time: 7pm
+    title: "Performance at a [St Andrews Society](http://www.chicagoscots.org) dinner"
+    location: Chicago, IL
+
+  - date: 2015-06-02
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2015-06-09
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2015-06-13
+    time: 3pm
+    title: "Scottish concert with [Kate Shuldiner](/shuldiner.html) at the [Riverside Folk Festival](http://www.rside.org/event/)"
+    location: "[Cantigny Park](http://www.cantigny.org/), Wheaton, IL"
+
+  - date: 2015-06-16
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2015-06-19
+    time: 7:30pm
+    title: "Scottish concert with [Kate Shuldiner](/shuldiner.html) at the [Chicago Highland Games](http://www.chicagoscots.org/highlandgames/)"
+    location: "[Hamilton Lakes](http://www.hamiltonpartners.com/location_overview.php?id=43&region=IL&type=office), Itasca, IL"
+
+  - date: 2015-06-20
+    time: 11:30AM & 3:00pm
+    title: "Scottish concert with [Jeremy Ward](http://www.jeremydavidward.com/) at the [Chicago Highland Games](http://www.chicagoscots.org/highlandgames/)"
+    location: "[Hamilton Lakes](http://www.hamiltonpartners.com/location_overview.php?id=43&region=IL&type=office), Itasca, IL"
+
+  - date: 2015-06-27
+    time: 9AM
+    title: "[Ohio Scottish Games](http://www.ohioscottishgames.com/#!competitions/vstc4=fiddle) fiddle competition"
+    location: Wellington, OH
+
+  - date: 2015-06-30
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2015-07-02
+    time: 5pm
+    title: "Fiddle and harpsichord concert at a private dinner party"
+    location: Grafton, WI
+
+  - date: 2015-07-07
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2015-07-09
+    time: 6:30pm
+    title: "[Midwest Fiddle Championship](http://www.squareroots.org/fiddle/)"
+    location: "[Old Town School of Folk Music](https://www.oldtownschool.org/), Chicago, IL"
+
+  - date: 2015-07-11
+    time: 1:45pm
+    title: "[Midwest Fiddle Championship Finals](http://www.squareroots.org/fiddle/)"
+    location: "[Old Town School of Folk Music](https://www.oldtownschool.org/), Chicago, IL"
+
+  - date: 2015-07-14
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2015-07-20
+    title: "Instructor at [The Jink and Diddle School of Scottish Fiddling](http://www.jinkdiddle.com/)"
+    location: Valle Crucis, NC
+
+  - date: 2015-08-17
+    time: 7pm
+    title: "[English Country Dance](http://www.fnal.gov/orgs/folkdance/english/) with [Old Fezziwig's Band](http://www.oldfezziwigsband.com/)"
+    location: Oak Park, IL
+
+- season: 2015-2016
+  events:
+
+  - date: 2015-09-04
+    time: 8pm
+    title: "[Scottish performance](http://ymlp.com/zqR4fG) with [Character Fleadh](http://www.reverbnation.com/characterfleadh)"
+    location: "[Troquet River North](http://troquetrivernorth.com/), 111 W Huron St., Chicago, IL"
+
+  - date: 2015-09-07
+    time: 12pm
+    title: "Scandinavian dance music with [Chicago Spelmanslag](https://www.facebook.com/pages/Chicago-Spelmanslag/39048833440) at the [Fox Valley Folk Festival](http://foxvalleyfolk.com/)"
+    location: Island Park, Geneva, IL
+
+  - date: 2015-09-07
+    time: 3pm
+    title: "*Dances of the British Isles* with [Old Fezziwig's Band](http://www.oldfezziwigsband.com/) at the [Fox Valley Folk Festival](http://foxvalleyfolk.com/)"
+    location: Island Park, Geneva, IL
+
+  - date: 2015-09-12
+    time: 1pm
+    title: "[US National Scottish Fiddling Competition](http://www.edinboro.edu/events/highland-games/competition-entries/regional-fiddle-competition.html)"
+    location: Edinboro, PA
+
+  - date: 2015-09-18
+    title: "Scottish music of the [American Civil War](http://www.barrington-il.gov/Home/Components/Calendar/Event/3992/16?recordid=3992&curm=9&cury=2015) at the [Green Whale Tavern](http://greenwhaletavern.blogspot.com/)"
+    location: Barrington, IL
+
+  - date: 2015-09-19
+    time: 5pm
+    title: "Scottish performance with [Character Fleadh](http://www.reverbnation.com/characterfleadh) at the [Brew at the Bridge](http://www.brewatthebridge.com/)"
+    location: Oswego, IL
+
+  - date: 2015-09-23
+    time: 6pm
+    title: "*[Music of the British Isles with an Italian Twist](http://www.constellation-chicago.com/event/945755-classical-revolution-bbe-chicago/)* with the [Bach and Beethoven Ensemble](http://www.bbensemble.org/)"
+    location: "[Constellation](http://www.constellation-chicago.com/), 3111 N Western Ave., Chicago, IL"
+
+  - date: 2015-09-28
+    time: 3:30pm
+    title: "After-school program about the Baroque violin"
+    location: "[Nettelhorst Elementary School](http://www.nettelhorst.org/), Chicago, IL"
+
+  - date: 2015-10-03
+    time: 7pm
+    title: "Scottish concert and ceilidh dance with [Character Fleadh](http://www.reverbnation.com/characterfleadh) at the Clan MacPherson Reunion"
+    location: Itasca, IL
+
+  - date: 2015-10-12
+    time: 7pm
+    title: "[House concert](https://www.facebook.com/events/140135803007308/) with [Jeremy Ward](http://www.jeremydavidward.com)"
+    location: "Wicker Park ([contact Tim](/contact.html) for address), Chicago, IL"
+
+  - date: 2015-10-13
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2015-10-25
+    title: "[Glenfiddich Fiddle Championship](http://www.glenfiddich.com/uk/explore/latest-events/glenfiddich-fiddle-championship/)"
+    location: Blair Castle, Perthshire, Scotland
+
+  - date: 2015-10-26
+    time: 7:30pm
+    title: "[Dunkeld and District Strathspey and Reel Society](http://www.dunkeldstrathspeyandreel.org/)"
+    location: Dunkeld, Scotland
+
+  - date: 2015-10-29
+    title: "Concert with [Jeremy Ward](http://www.jeremydavidward.com/) at [The National Centre of Excellence in Traditional Music](http://www.musicplockton.org/). Preceded by a workshop."
+    location: Plockton, Scotland
+
+  - date: 2015-11-10
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2015-11-17
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2015-11-21
+    time: 6pm
+    title: "Performance at [The Feast of the Haggis](http://www.chicagoscots.org/feastofhaggis/) with [Rachel Barton Pine](http://www.rachelbartonpine.com) and [The Thistle and Heather Highland Dancers](http://chicagoscottishdance.com/)"
+    location: Palmer House, Chicago, IL
+
+  - date: 2015-11-24
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+  - date: 2015-12-01
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2015-12-07
+    time: 7pm
+    title: "[Caledonian Regency Ball](http://chicagolandecd.org/special-events/caledonian-regency-ball/) called by [Susan de Guardiola](http://www.kickery.com/) with [Jeremy Ward](http://www.jeremydavidward.com/) and [Jonathan Whitall](http://thecosmicotters.com/)"
+    location: Oak Park, IL
+
+  - date: 2015-12-08
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2015-12-15
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2015-12-16
+    time: 4pm
+    title: "Colloquium on [\"Folk but Baroque: Re-examining the Performance Practice and Genre of 18th-century Scotland\"](https://www.facebook.com/events/1701979106684557/) with [Jeremy Ward](http://www.jeremydavidward.com) and [David Schrader](http://www.davidschrader.com/)"
+    location: "Towner Fellows' Lounge at [The Newberry Library](http://newberry.org/), Chicago, IL"
+
+  - date: 2016-01-05
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-01-12
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-01-15
+    time: 7pm
+    title: "Private event with [Jeremy Ward](http://www.jeremydavidward.com)"
+    location: "Chicago, IL"
+
+  - date: 2016-01-16
+    time: 7pm
+    title: "[Scottish Country Dance Ball](https://rscdschicago.wordpress.com/special-events/) with [Jeremy Ward](http://www.jeremydavidward.com)"
+    location: Baker Community Center, St. Charles, IL
+
+  - date: 2016-01-17
+    time: 1:30pm
+    title: "[Scottish Tea Dance](https://rscdschicago.wordpress.com/special-events/) with [Jeremy Ward](http://www.jeremydavidward.com)"
+    location: Baker Community Center, St. Charles, IL
+
+  - date: 2016-01-19
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-01-23
+    time: 7pm
+    title: "Pre-concert lecture on Scottish tunes and Romantic concertos with [Rachel Barton Pine](http://rachelbartonpine.com/) and the [Lansing Symphony Orchestra](http://www.lansingsymphony.org/)"
+    location: "[Wharton Center for the Performing Arts](http://www.whartoncenter.com/), East Lansing, MI"
+
+  - date: 2016-01-23
+    time: 8pm
+    title: "Traditional Scottish tunes with [Rachel Barton Pine](http://rachelbartonpine.com/) and the [Lansing Symphony Orchestra](http://www.lansingsymphony.org/) ([Tickets](https://ssl1.lansingsymphony.org/scripts/max/2000/maxweb.exe?ACTION=ORDER&MAXWEB_127.0.0.1_2213=))"
+    location: "[Wharton Center for the Performing Arts](http://www.whartoncenter.com/), East Lansing, MI"
+
+  - date: 2016-02-02
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-02-05
+    time: 8pm
+    title: "[Old Lazarus' Harp February Concert](https://www.facebook.com/OldLazarusHarp) with [Jeremy Ward](http://www.jeremydavidward.com)"
+    location: "[The Galway Arms](http://galwayarms.com/), 2442 N Clark St, Chicago, IL"
+
+  - date: 2016-02-06
+    title: "Solo concert of \"Lowland Scottish Music of the Late 18th Century\""
+    location: "[Military History Fest](http://www.reenactorfest.com/), [Pheasant Run Resort](http://www.pheasantrun.com/), St. Charles, IL"
+
+  - date: 2016-02-06
+    title: "Seminar on \"Historically-Informed Performance: How to Research Early Music\""
+    location: "[Military History Fest](http://www.reenactorfest.com/), [Pheasant Run Resort](http://www.pheasantrun.com/), St. Charles, IL"
+
+  - date: 2016-02-09
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-02-16
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-02-23
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-02-25
+    title: "Private lecture on musical styles with [Jeremy Ward](http://www.jeremydavidward.com)"
+    location: "[Wheaton College](http://www.wheaton.edu/), Wheaton, IL"
+
+  - date: 2016-02-27
+    title: "[University of Glasgow Chicago Burns Supper](http://www.gla.ac.uk/alumni/events/headline_437608_en.html) with [Jeremy Ward](http://www.jeremydavidward.com), [Brandi Berry](http://www.bbensemble.org/leadership/), and [Mady Newfield](https://www.linkedin.com/in/mady-newfield-534b9313)"
+    location: "Chicago, IL"
+
+  - date: 2016-03-01
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-03-05
+    time: 7:30pm
+    title: "St. Patrick's Day performance with [Logical Fleadh](http://www.logicalfleadh.com/)"
+    location: "[St. Cornelius Church](http://www.stcornelius.org/), 5205 N Lieb Ave., Chicago, IL"
+
+  - date: 2016-03-06
+    time: 7:30pm
+    title: "Scottish workshop for the [Fiddle Club of the World (Chicago Chapter)](https://www.facebook.com/groups/fiddleclub/) with [Jeremy Ward](http://www.jeremydavidward)"
+    location: "[Seman Violins](http://semanviolins.com/), 4447 Oakton St, Skokie, IL"
+
+  - date: 2016-03-08
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-03-12
+    time: 2:30pm
+    title: "St. Patrick's Day performance with [Logical Fleadh](http://www.logicalfleadh.com/)"
+    location: "[Durty Nellie's](http://www.durtynellies.com/), 180 N Smith St., Palatine, IL"
+
+  - date: 2016-03-12
+    time: 8pm
+    title: "St. Patrick's Day performance with [Logical Fleadh](http://www.logicalfleadh.com/)"
+    location: "[Fountain Blue](http://www.fountainblue.com/), 2300 Mannheim Rd, Des Plaines, IL"
+
+  - date: 2016-03-15
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-03-17
+    time: 2pm
+    title: "St. Patrick's Day performance with [Character Fleadh](http://www.characterfleadh.com/)"
+    location: "[Durty Nellie's](http://www.durtynellies.com/), 180 N Smith St., Palatine, IL"
+
+  - date: 2016-03-17
+    time: 7pm
+    title: "St. Patrick's Day performance with [Logical Fleadh](http://www.logicalfleadh.com/)"
+    location: "[Palmer Place](http://www.palmerslagrange.com/), 56 S La Grange Rd., La Grange, IL"
+
+  - date: 2016-03-19
+    time: 7:30pm
+    title: "House Concert: *Co-Latha Breith Sona* feat. Tim Macdonald and [Jeremy Ward](http://www.jeremydavidward.com)"
+    location: "Lakeview, Chicago, IL ([Contact Tim](/contact.html) for details)"
+
+  - date: 2016-03-22
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-03-29
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-04-05
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-04-09
+    time: 8pm
+    title: "[Wilson Abbey Contra Dance](https://www.facebook.com/groups/440613619469474/) as *Tim Macdonald and [Jeremy Ward](http://www.jeremydavidward.com) are the Whipmen of the Year, feat. Guest Artist [Meg Dedolph](http://thecosmicotters.com/), the Whipman's Lass*"
+    location: "[Wilson Abbey](http://wilsonabbey.com/), 935 W Wilson Ave., Chicago, IL"
+
+  - date: 2016-04-12
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-04-19
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-04-23
+    time:
+    title: "*Scottish Fiddling in 1770s America* demonstration at the [U.S. Grant Pilgrimage](http://www.blackhawkscouting.org/usgrantpilgrimage)"
+    location: "[The Grant Home](http://www.granthome.com/), Galena, IL"
+
+  - date: 2016-04-26
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-04-30
+    time:
+    title: "*Scottish Fiddling in 1770s America* demonstration at the [Mt. Vernon Revolutionary War Weekend](http://www.mountvernon.org/plan-your-visit/calendar/events/revolutionary-war-weekend/)"
+    location: "[Mt. Vernon](http://www.mountvernon.org/), VA"
+
+  - date: 2016-05-03
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-05-10
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-05-14
+    time:
+    title: "*The Music of George Gibson on the Lewis & Clark Expedition* demonstration at [Point of Departure](http://www.campdubois.com/html/special_events1.html)"
+    location: "[Camp Dubois](http://www.campdubois.com/), Hartford, IL"
+
+  - date: 2016-05-17
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-05-24
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-05-31
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-06-06
+    time: 7pm
+    title: "Tim Macdonald & Jeremy Ward with the Degenerate Train Puns play a contra dance"
+    location: "[The Irish American Heritage Center](http://irish-american.org/), Chicago, IL"
+
+  - date: 2016-06-07
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-06-14
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-06-17
+    time: 8:15pm
+    title: "Tim Macdonald and [Jeremy Ward](http://www.jeremydavidward.com) at the [Chicago Highland Games](http://www.chicagoscots.org/highlandgames/)"
+    location: "[Hamilton Lakes](http://www.hamiltonpartners.com/location_overview.php?id=43&region=IL&type=office), Itasca, IL"
+
+  - date: 2016-06-18
+    time: 11:30am
+    title: "Tim Macdonald and [Jeremy Ward](http://www.jeremydavidward.com) at the [Chicago Highland Games](http://www.chicagoscots.org/highlandgames/)"
+    location: "[Hamilton Lakes](http://www.hamiltonpartners.com/location_overview.php?id=43&region=IL&type=office), Itasca, IL"
+
+  - date: 2016-06-19
+    time: 7pm
+    title: "House Concert"
+    location: "NW suburb of Pittsburgh, PA. [Contact Tim](/contact.html) for details."
+
+  - date: 2016-06-18
+    time: 3pm
+    title: "Tim Macdonald and [Jeremy Ward](http://www.jeremydavidward.com) at the [Chicago Highland Games](http://www.chicagoscots.org/highlandgames/)"
+    location: "[Hamilton Lakes](http://www.hamiltonpartners.com/location_overview.php?id=43&region=IL&type=office), Itasca, IL"
+
+  - date: 2016-07-15
+    title: "Two concerts at the [Jane Austen Festival](http://jasnalouisville.com/2016-jane-austen-festival) with [Jeremy Ward](http://www.jeremydavidward.com)"
+    location: Louisville, KY
+
+- season: 2016-2017
+  events:
+
+  - date: 2016-07-24
+    title: "Instructor at [The Jink and Diddle School of Scottish Fiddling](http://jinkdiddle.com/)"
+    location: Valle Crucis, NC
+
+
+  - date: 2016-08-06
+    time: 10am
+    title: "Tim Macdonald and [Rachel Barton Pine](http://rachelbartonpine.com/) play at [The Scottish Home Picnic](http://www.thescottishhome.org/)"
+    location: "[The Scottish Home](http://www.thescottishhome.org/), 2800 Desplaines Ave, North Riverside, IL"
+
+  - date: 2016-08-22
+    time: 7pm
+    title: "Tim Macdonald & Jeremy Ward (The Fightin' Seahorses) play a contra dance"
+    location: "[The Irish American Heritage Center](http://irish-american.org/), Chicago, IL"
+
+  - date: 2016-08-25
+    time: 5pm
+    title: "Tim Macdonald, Jeremy Ward, and [The BBE](http://www.bbensemble.org/) at a [Scottish Folk Night](http://www.bbensemble.org/new-events-1/2016/8/25/scottish-folk-night)"
+    location: "[Big Bricks](http://bigbrickschicago.com/), 3832 N Lincoln Ave, Chicago, IL"
+
+  - date: 2016-08-27
+    time: 3:30pm
+    title: "Tim Macdonald & Jeremy Ward (The Disgruntled Porcupines) at [Rogers Pork](http://rpublichouse.com/rogers-pork-barbecue-arts-music-festival/)"
+    location: "Jarvis Ave east of Ashland, Rogers Park, Chicago, IL"
+
+  - date: 2016-09-02
+    time: 6pm
+    title: "[The Midwest Sing & Stomp](https://www.facebook.com/events/157202711380049), with music from Tim Macdonald & Jeremy Ward at 10pm"
+    location: "[Red Line Tap](http://www.redlinetap.com/), 7006 N Glenwood Ave, Chicago, IL"
+
+  - date: 2016-09-05
+    time: 2pm
+    title: "'Fiddle Styles of the World' workshop at [The Fox Valley Folk Festival](http://foxvalleyfolk.com/)"
+    location: "Island Park, Geneva, IL"
+
+  - date: 2016-09-05
+    time: 3pm
+    title: "'Social Dancing of the British Isles' workshop with [Old Fezziwig's Band](https://chicagolandecd.org/old-fezziwigs-band/) at [The Fox Valley Folk Festival](http://foxvalleyfolk.com/)"
+    location: "Island Park, Geneva, IL"
+
+  - date: 2016-09-08
+    time: 5pm
+    title: "Tim Macdonald, Jeremy Ward, and [The BBE](http://www.bbensemble.org/) at a [Scottish Folk Night](http://www.bbensemble.org/new-events-1/2016/8/11/scottish-folk-night)"
+    location: "[The Scottish Home](http://www.thescottishhome.org/), 2800 Desplaines Ave, North Riverside, IL"
+
+  - date: 2016-09-10
+    time:
+    title: "*Tavern Music of the American War for Independence* with the [NWTA](http://www.nwta.com/event/cantigny/) at the [Ox Bow Tavern](https://www.facebook.com/Ox-Bow-Tavern-Living-History-716391548407769/)"
+    location: "[Cantigny Park](http://www.cantigny.org/), Wheaton, IL"
+
+  - date: 2016-09-11
+    time: 5pm
+    title: "Performance at the [Redeemer Anglican Church Fall Festival](https://www.facebook.com/events/1144515118953911/)"
+    location: "5210 N Washtenaw Ave, Chicago, IL"
+
+  - date: 2016-09-24
+    time: 8pm
+    title: "[*The Gentle Shepherd*](http://www.bbensemble.org/new-events-1/2016/9/24/the-gentle-shepherd) with Tim Macdonald, Jeremy Ward, and [The BBE](http://www.bbensemble.org/)"
+    location: "[The Old Town School of Folk Music](https://www.oldtownschool.org/), 4544 N Lincoln Ave, Chicago, IL"
+
+  - date: 2016-09-25
+    time: 7pm
+    title: "[*The Gentle Shepherd*](http://www.bbensemble.org/new-events-1/2016/9/25/the-gentle-shepherd-2) with Tim Macdonald, Jeremy Ward, and [The BBE](http://www.bbensemble.org/)"
+    location: "[Theater Wit](https://www.theaterwit.org/), 1229 W Belmont Ave, Chicago, IL"
+
+  - date: 2016-09-28
+    time: 8pm
+    title: "Tim & Jeremy and [Spitzer & Mareva](http://sstandmareva.com/) at [Uncommon Ground](http://www.uncommonground.com/edgewater-location)"
+    location: "1401 W Devon Ave, Chicago, IL"
+
+  - date: 2016-10-04
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-10-11
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2017-02-14
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2017-02-28
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2017-03-06
+    time: 7pm
+    title: "Tim, Jeremy, [Spitzer Space Telescope](http://www.sstmusic.com), and [Heather Malyuk](http://www.glassmountain.com) form a contra super group!"
+    location: "[The Irish American Heritage Center](http://irish-american.org/), Chicago, IL"
+
+  - date: 2017-03-18
+    time: 8pm
+    title: "[Tim and Jeremy at Uncommon Ground](http://www.uncommongroundcalendar.com/blog/event/artemisia-w-tim-macdonald-and-jeremy-ward/), followed by [Artemisia](http://www.artemisiatrio.com/)"
+    location: "[Uncommon Ground Lakeview](https://www.yelp.com/reservations/clark-street-music-room-chicago?date=2017-03-18&yr_redirect=1&covers=2&time=1800), 3800 N Clark St, Chicago, IL"
+
+  - date: 2017-03-19
+    time: 2pm
+    title: "[Contra dance](http://www.chicagobarndance.org/ai1ec_event/fermilab-barn-dance-34/?instance_id=2856) with [The Cosmic Otters](http://thecosmicotters.com/)"
+    location: "Fermilab's Kuhn Barn, Batavia, IL"
+
+  - date: 2017-03-20
+    time: 6:45pm
+    title: "[English Country Dance, preceded by a lecture-concert on Robert Mackintosh of Tulliemet](https://chicagolandecd.org/local-dancing/oak-park-ecd/)"
+    location: "[Nineteenth Century Club](http://www.nineteenthcentury.org/), 178 Forest Ave., Oak Park, IL"
+
+  - date: 2017-03-30
+    time: 7:30pm
+    title: "[Elizabethan Music for the Renaissance Society of America's 2017 Convention](https://convention2.allacademic.com/one/rsa/rsa17/index.php?cmd=Online+Program+View+Event&selected_box_id=235802&PHPSESSID=t4e2rq5hbbh3ripp16ipi9nel6) with the [Newberry Violin Band](http://newberryconsort.org/)"
+    location: "Palmer House, 17 E Monroe St, Chicago, IL"
+
+  - date: 2017-04-02
+    time: 2pm
+    title: "[Fiddle Workshop for the Boston Scottish Fiddle Club](http://bsfc.org/sunday-workshops/)"
+    location: "Plymouth Congregational Church, 582 Pleasant St., Belmont, MA"
+
+  - date: 2017-04-22
+    time:
+    title: "[Paper presentation for *Musica Scotica*: \"Robert Mackintosh of Tulliemet: A Statistical and Sociocultural Analysis\"](http://www.musicascotica.org.uk/conferences.shtml)"
+    location: "The Tolbooth, Jail Wynd, Stirling, Scotland"
+
+  - date: 2017-04-29
+    time: 2pm
+    title: "*Frottole* with the [Newberry Violin Band](http://newberryconsort.org/)"
+    location: "Newberry Library, 60 W Walton St, Chicago, IL"
+
+  - date: 2017-05-06
+    time: 7pm
+    title: "[House concert](https://www.facebook.com/events/1400447276683173) (album sneak peek!)"
+    location: "Lakeview East, Chicago, IL"
+
+  - date: 2017-05-16
+    time: 7pm
+    title: "[Indy Contra Dance](https://www.facebook.com/events/1868698520038059)"
+    location: "Indianapolis, IN"
+
+  - date: 2017-05-20
+    time: 5pm
+    title: "English Country Dancing"
+    location: "Garfield Park Conservatory, Chicago, IL"
+
+  - date: 2017-06-10
+    time: 7pm
+    title: "*A Gaelic Summer* preview with the [Bach and Beethoven Ensemble](http://www.bbensemble.org) for the [Bella Voce Gala](https://www.bellavoce.org/gala-benefit/)"
+    location: "Museum of Contemporary Art, Chicago, IL"
+
+  - date: 2017-07-01
+    time: 8pm
+    title: "[Montepelier Contra Dance](http://capitalcitygrange.org/event/contra-dance-eileen-thorsos-calling-tim-macdonald-jeremy-ward/)"
+    location: "Capital City Grange, Montepelier, VT"
+
+  - date: 2017-07-02
+    time: 2pm
+    title: "Workshop for the [Champlain Valley Scottish Fiddle Club](http://cvsfc.org/)"
+    location: "Middlebury, VT"
+
+  - date: 2017-07-02
+    time: 7pm
+    title: "Concert presented by the [Champlain Valley Scottish Fiddle Club](http://cvsfc.org/)"
+    location: "Middlebury, VT"
+
+  - date: 2017-07-03
+    time: Until July 7
+    title: "[ESCape Week](https://www.pinewoods.org/camp-sessions/session-schedule/) at Pinewoods"
+    location: "Pinewoods, MA"
+
+  - date: 2017-07-11
+    time: 7pm
+    title: "[House Show](https://www.facebook.com/events/811007569077228) with [Old Lazarus' Harp](https://www.facebook.com/OldLazarusHarp/)"
+    location: "Ledyard, CT (RSVP for precise address)"
+
+  - date: 2017-07-12
+    time: 8:30pm
+    title: "[Concert](https://www.facebook.com/events/1093863900715697/) with [Old Lazarus' Harp](https://www.facebook.com/OldLazarusHarp/)"
+    location: "[Jalopy Theatre](https://www.jalopy.biz/), Brooklyn, NY"
+
+  - date: 2017-07-13
+    time: 8pm
+    title: "[Square Dance](https://www.threesbrewing.com/event/olh-brooklyn-square-dance-at-threes-at-franklin-kent/) with [Old Lazarus' Harp](https://www.facebook.com/OldLazarusHarp/)"
+    location: "Threes Brewing at Franklin + Kent, Brooklyn, NY"
+
+  - date: 2017-07-15
+    time: 7pm
+    title: "[Concert](https://www.facebook.com/events/1053254624809982/) with [Old Lazarus' Harp](https://www.facebook.com/OldLazarusHarp/)"
+    location: "[Hamlin Street Diner](https://www.facebook.com/hamlinstreetdiner/), 1334 Hamlin St NE, Washington, DC"
+
+  - date: 2017-07-18
+    time: 7pm
+    title: "House Concert with [Old Lazarus' Harp](https://www.facebook.com/OldLazarusHarp/)"
+    location: "Blacksburg, VA"
+
+  - date: 2017-07-20
+    time: 7pm
+    title: "House Concert with [Old Lazarus' Harp](https://www.facebook.com/OldLazarusHarp/)"
+    location: "Roanoke, VA"
+
+  - date: 2017-07-22
+    time:
+    title: "Concert with [Old Lazarus' Harp](https://www.facebook.com/OldLazarusHarp/)"
+    location: "[The Sloop Clearwater](http://www.clearwater.org/), Beacon, NY"
+
+  - date: 2017-07-23
+    time: Until June 30
+    title: "Teaching at [The Jink & Diddle School of Scottish Fiddling](http://www.jinkdiddle.com) (just Tim)"
+    location: "Valle Crucis, NC"
+
+  - date: 2017-09-02
+    time: All day
+    title: "[Midwest Sing & Stomp](http://www.singandstomp.com) with the [Newberry Consort Violin Band](https://newberryconsort.org/)"
+    location: "Beat Kitchen, Chicago, IL"
+
+  - date: 2017-09-15
+    time: 7pm
+    title: "Urbana Contra Dance"
+    location: "Urbana, IL"
+
+  - date: 2017-10-16
+    time: 7pm
+    title: "Contra dance (Chicago Barn Dance Company)"
+    location: "[The Irish American Heritage Center](http://irish-american.org/), Chicago, IL"
+
+  - date: 2017-11-04
+    time: 8pm
+    title: "Album Release Party"
+    location: "Galway Arms, Chicago, IL"
+
+  - date: 2017-11-06
+    time: 7pm
+    title: "[Album Release Party](https://www.facebook.com/events/174117586475000/)"
+    location: "Old Fort Niagara, Buffalo, NY"
+
+  - date: 2017-11-07
+    time: 7pm
+    title: "[Album Release Party](https://www.facebook.com/events/1895213934129365/)"
+    location: "Jamaica Plain, Boston, MA"
+
+  - date: 2017-11-13
+    time: 7pm
+    title: "[Pat Shaw Centenary Celebration (English country dance)](https://chicagolandecd.org/local-dancing/oak-park-ecd/)"
+    location: "[The Nineteenth Century Club](http://www.nineteenthcentury.org/), 178 Forest Ave., Oak Park, IL"
+
+  - date: 2017-12-07
+    time: 12pm
+    title: "[Courtroom Concert](https://schubert.org/event/free-courtroom-concert-featuring-tim-macdonald-jeremy-ward/)"
+    location: "The Schubert Club, St. Paul, MN"
+
+  - date: 2017-12-08
+    time: 7pm
+    title: "[House concert](http://concerts.jannakysilko.com/tim-and-jeremy/)"
+    location: "St. Paul, MN"
+
+  - date: 2017-12-11
+    time: 7pm
+    title: "[English country dance](https://chicagolandecd.org/local-dancing/oak-park-ecd/)"
+    location: "[The Nineteenth Century Club](http://www.nineteenthcentury.org/), 178 Forest Ave., Oak Park, IL"
+
+  - date: 2017-12-29
+    time: 7:30pm
+    title: House concert (contact Tim for more details)
+    location: "New Castle, DE"

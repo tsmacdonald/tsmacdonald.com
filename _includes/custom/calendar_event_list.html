@@ -1,0 +1,17 @@
+<tbody>
+  <tr>
+    <td colspan="2"><h2>{{ include.title }}</h2></td>
+  </tr>
+</tbody>
+<tbody>
+  {%for event in site.data.calendar %}
+    {% capture eventUnixTimestamp %}{{ event.date | date: "%s" }}{% endcapture %}
+
+    {% if eventUnixTimestamp > currentUnixTimestamp and include.pastOrFuture == "future" %}
+      {% include custom/calendar_event.html event=event pastOrFuture="future" %}
+    {% elsif eventUnixTimestamp < currentUnixTimestamp and include.pastOrFuture == "past" %}
+      {% include custom/calendar_season_header.html %}
+      {% include custom/calendar_event.html pastOrFuture="past" %}
+    {% endif %}
+  {% endfor %}
+</tbody>

@@ -1,0 +1,16 @@
+<tr data-season="{{ event.season }}">
+  <td data-date="{{ event.date }}" class="calendar-date">
+    <span class="calendar-date-month">{{ event.date | date: "%B" }}</span>
+    <span class="calendar-date-day">{{ event.date | date: "%-d" }}</span>
+    <span class="calendar-date-year">{{ event.date | date: "%Y" }}</span>
+  </td>
+  <td>
+    {{ event.title | markdownify | remove: '<p>' | remove: '</p>' }}
+    <span class="calendar-location-and-time">
+      {{ event.location | markdownify | remove: '<p>' | remove: '</p>' }}
+      {% if event.time %}
+        &bull; {{ event.time }}
+      {% endif %}
+    </span>
+  </td>
+</tr>

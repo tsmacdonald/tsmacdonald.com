@@ -25,6 +25,7 @@
 	@include skel-layout((
 		reset: 'full',
 		boxModel: 'border',
+    containers: 960,
 		grid: ( gutters: 2em ),
 		breakpoints: (
 			large: (
@@ -78,3 +79,5 @@
 	@import 'layout/footer';
 	@import 'layout/wrapper';
 	@import 'layout/menu';
+
+
