@@ -29,8 +29,11 @@ pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/tsmacdonald
 
+google_analytics_tracking_id: "UA-52209737-1"
+
 # build settings
 markdown: kramdown
 
 sass:
   style: compressed
+

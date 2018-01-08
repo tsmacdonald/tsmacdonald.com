@@ -24,3 +24,52 @@
 			border-bottom: solid 1px _palette(border);
 		}
 	}
+
+.top-space {
+  margin-top: 10px;
+}
+
+.quote-attribution {
+  margin-left: 3em;
+  font-size: 17.5px;
+}
+
+.shop-image {
+  max-width: 600px;
+  max-height: 600px;
+  width: auto;
+  height: auto;
+  display: block;
+}
+
+.buynow-image {
+  max-width: 300px;
+}
+
+.video-player {
+  max-width: 560px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  @media only screen and (max-width: 1140px) and (min-width: 900px) {
+    width: 166.67%;
+  }
+  padding-top: 40px;
+  figure {
+    display: block;
+    height: 0;
+    left: 0;
+    margin: 0;
+    max-width: 100%;
+    overflow: hidden;
+    padding-bottom: 56%;
+    position: relative;
+    top: 0;
+    iframe {
+      height: 100%;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 100%;
+    }
+  }
+}

@@ -12,8 +12,10 @@
         </article>
 	{% endif %}
 	{% endfor %}
-	{% for page in site.pages limit:site.tiles-count %}
-	{% if site.tiles-source == 'pages' %}
+
+  {% assign sorted_pages = site.pages | sort:"order" %}
+	{% for page in sorted_pages %}
+	{% if site.tiles-source == 'pages' and page.tileable %}
         <article>
                 <span class="image">
                         <img src="{{ page.image }}" alt="" />
