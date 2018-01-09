@@ -33,7 +33,7 @@ of Bruch's *Scottish Fantasy*, and serving as music and dancing master at a thor
 Floor</i>, WDCB (Chicago), and WBOM (Rockford).
 
 His debut album, [*The Wilds*](http://www.timandjeremy.com/wilds) (with cellist [Jeremy
-Ward](http://www.jeremydavidward.com), celebrates the diversity of Scottish fiddle music in the 18th century, and has
+Ward](http://www.jeremydavidward.com)), celebrates the diversity of Scottish fiddle music in the 18th century, and has
 been described as "fresh and yet authentic sounding" ([Dr. John Purser](http://www.johnpurser.net/)) and "a belter"
 ([Prof. David McGuinness](https://www.gla.ac.uk/schools/cca/staff/davidmcguinness/)).
 
