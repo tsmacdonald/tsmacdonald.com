@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/tsmacdonald
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tsmacdonald.com
+  * I am tsmacdonald (https://keybase.io/tsmacdonald) on keybase.
+  * I have a public key with fingerprint C0BB 24F2 6626 BB69 714B  A491 4600 46AC ED64 C530
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120b038bed247a75f9bf813fb5fd160fc1757cb292195238430efbeb323178db1550a",
+            "fingerprint": "c0bb24f26626bb69714ba491460046aced64c530",
+            "host": "keybase.io",
+            "key_id": "460046aced64c530",
+            "kid": "0101f2af129650bfbd8126a47eaa820c407e8446ea0179e0a6f87d5dc46bf80c6c8a0a",
+            "uid": "5683c0a7105d6746e22ac76d3f6b8a19",
+            "username": "tsmacdonald"
+        },
+        "service": {
+            "hostname": "tsmacdonald.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1474666725,
+    "expire_in": 157680000,
+    "prev": "845c857ed5c3cb7f47329435e3b93a6d1b7c07274391cc5b08bb5f190443c389",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMNlAnicbVJ7TBRHHD4QUY+3NWJVItmCVnOls6/Z3asYagXSYmzBEKJtct2ZnT1W
+YBfvlpNnYpFCX0Qk4KNSqkVjkxoETBFBYsBq09YmbcFYakrb4EGNPGxKjCBI90j9
+q51/JjO/7/vm+37z+ypiic0elGZLOz+hXAdB3/U1Fdly/Kf8ZRQylBLKWUblkcWN
+5CvEa7ryNIVyUoBmAAKsiIjCcIIs8KqEVJFmVcSrCg2BimmBFzBiJIaWeIYVORYQ
+FRHEMiwtiAqieR7IlINSNd1NPIUeTTctWQwQYjiVgZCBCEFJoDkkcxLNQQA4KGOi
+QA7zLLCIuYY3wLDMIdlLkjTDurMOrkV7/4N/6hvQKiOrNCNBHiAVKSLNQJkTiCyL
+DMAcEIjIcZDIgBYkAmSoioLCK5iDVj6AIRblRd9Fi3I8FFkMZIEGvAIFi8YwMhag
+wqoQiTItBYBe4tHlAmKhTW+BjBVDl/MVqsJBWQWfhkmgt4Ew/wUlYaPAUij0GKaB
+jXyrmGuahc4A1ywpDIAPEOT6V8aFNF2xmmkRfMTj1QydctIWEptaQJfmLHsQCgzv
+oEhxoeYhLi2A4AUoAmsFniE+S1LkeCzyAlF4zGIkqJzAMhLH8oRFEitDhUYCBgIj
+cKxEY8wjICLrz2kJcByLWTEQ2Uv26wbllCybstuS9GpuXTaLPISq6O97K8QWZLeF
+Lg0ODJnNviL66ejBxqiFlMwH4TvH5mLuHr0k3xi46b08cnPq9f7O9OEjmzIXSmZu
+X/mj5dZcX66/dzrZsbDk09uTT2Z2jbReS/9856G2eLOz5359T94dtxpHfxbjceTv
+vervcOVlJdauj9nqf9ZxsunV/fM44uvfvB92a93vhw1nLr1wUYONq9VMx5s7nL17
+gsN0fHB0VdXsaOPCiT2+G0O15dN/fR9bvtHlTois+DXUU/9eOTsRGToTfSoy//Hs
+9hRPKbr3wv0S34RC7d3n/3Zs2/INj7alPvYnkEY8SiZy4zpq65I2tjz/TPyVyYvD
+B+m+8JER3rs9JAOf29zvBPTZCxRXWRWPfwZFGVO/5/nmkxs/3qJ0XnX+sPsVFpR2
+bKLCPGUt9x6CHwfq0pLbKaf9rDktFreVlksIDs7sOlLQfeYdfb3r3eq/e8zsGRze
+LB46rdeNpP+S+ufE8q7hiGBh+rWXbDnPGacrjw6lrG1Lan84v2+Fr+byGn/buZU5
+TeNZ59UHP7V/UNlaH6tX55z4KHFdls03sLq8IelAfHbNlobiLiMk6iA8HHWms3nl
+HXtX5KWxUqCNbTCbp1JDwdrNrdeGZhO+uQUGB+nj3VFlx3H97mYl7br7RbuZXZm3
+qvSTrU/eiN7RXnvysNkbUj05foy8vSb20RfVy2rGgzOq7i572eZbdyzuywas8nFz
+9sR/ANPGvVU=
+=d/qY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tsmacdonald
+
+==================================================================
