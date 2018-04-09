@@ -38,7 +38,7 @@ Scottish style might find it useful to look over the collection of [tunes we'll 
 
 * April 10
 
-* April 24 TBD
+* April 24
 
 * May 8, then summer recess
 
