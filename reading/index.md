@@ -40,7 +40,7 @@ order: 5
 
 * ["Scottish Violin Makers Past and Present"](http://amzn.to/2b0lv0S) by William Honeyman (non-extortionate prices may be found by contacting [Fiddletree](http://www.fiddletree-music.com/fiddletree/fiddletreestore.html))
 
-## Indexes and Music Sources
+## Indices and Music Sources
 
 * [HMS.scot](http://hms.scot/) by David McGuinness et al.
 
@@ -66,7 +66,12 @@ order: 5
 
 * [*The Invention of 'Folk Music' and 'Art Music'*](http://amzn.to/2boQtkh) by Matthew Gelbart
 
+* ["Bass Culture in Scottish Musical Traditions"](https://www.academia.edu/23096209/Bass_Culture_in_Scottish_Musical_Traditions) by Barnaby Brown
+
 * [*The Flute in Musical Life in Eighteenth-Century Scotland*](http://theses.gla.ac.uk/7351/) by Elizabeth Ford
+
+* ["'File Under Celtic': The Uses and Misuses of a Musical Myth, 1882-1999"](https://www.jstor.org/stable/44160363) by Michael D. Nicholsen
+
 
 ## Philosophy of Baroque Music-Making
 
@@ -83,7 +88,7 @@ order: 5
 
 * [*The Art of Playing the Violin*](http://imslp.org/wiki/The_Art_of_Playing_on_the_Violin%2C_Op.9_(Geminiani%2C_Francesco\)) by Francesco Geminiani
 
-## Scottish Treatises
+## Scottish-Specific Treatises
 
 * ["Some Thoughts on the Performance of Concert Music"](https://doi.org/10.1093/earlyj/7.1.48) by Robert Bremner
 
@@ -93,9 +98,11 @@ order: 5
 
 * [Much useful information on the guitar (cittern)](https://robmackillop.net/guitar/18th-century-wire-strung-guittar/) compiled by Rob MacKillop
 
-* [*A Guide to Bowing*](https://amzn.to/2JAIUof) by J. S. Skinner (*not* Scottish-Baroque)
+* [*A Guide to Bowing*](https://amzn.to/2JAIUof) by James Scott Skinner (*not* Scottish-Baroque), and [its review](/docs/eydmann-skinner-guide-to-bowing-review.pdf) by Stuart Eydmann
 
-* [*The Strathspey, Reel, and Hornpipe Tutor*](https://amzn.to/2qkUATq) by William honeyman (*not* Scottish-Baroque, but contains interesting semi-historical information)
+* [*The Strathspey, Reel, and Hornpipe Tutor*](https://amzn.to/2qkUATq) by William Honeyman (*not* Scottish-Baroque, but contains interesting semi-historical information)
+
+* [*A Manual for the Learning of Traditional Scottish Fiddling: Design, Development, and Effectiveness*](https://etd.ohiolink.edu/!etd.send_file?accession=osu1299300924&disposition=inline) by Melinda Crawford Perttu
 
 ## Blogs of Note
 
