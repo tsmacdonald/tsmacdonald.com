@@ -137,4 +137,4 @@ order: 5
 commentary will probably come at some point), but they nevertheless stand as
 important sources in the current Scottish-Baroque music scene.
 
-[Contact me](/contact) with suggestions for any edits or additions!
+[Contact me](#contact) with suggestions for any edits or additions!
