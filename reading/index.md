@@ -6,7 +6,7 @@ image: /assets/images/bremner-treatise.jpg
 tileable: true
 nav-menu: true
 og_title: "A Reading List for Scottish-Baroque Fiddlers"
-ot_description: ""
+og_description: ""
 og_image: /assets/images/bremner-treatise.jpg
 content_type: Article
 order: 5
