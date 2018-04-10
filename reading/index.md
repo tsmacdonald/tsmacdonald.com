@@ -106,7 +106,7 @@ order: 5
 
 * [*Before the Chinrest: A Violinist's Guide to the Mysteries of Pre-Chinrest Technique and Style*](http://amzn.to/2bdVrAV) by Stanley Ritchie
 
-* [*The Art of Playing the Violin*](http://imslp.org/wiki/The_Art_of_Playing_on_the_Violin%2C_Op.9_(Geminiani%2C_Francesco\)) by Francesco Geminiani (note: Geminiani was Robert Bremner's private teacher)
+* [*The Art of Playing on the Violin*](http://imslp.org/wiki/The_Art_of_Playing_on_the_Violin%2C_Op.9_(Geminiani%2C_Francesco\)) by Francesco Geminiani (note: Geminiani was Robert Bremner's private teacher)
 
 ## Period Scottish Treatises
 
