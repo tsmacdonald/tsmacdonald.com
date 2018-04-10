@@ -5,6 +5,10 @@ date: 2016-08-12 14:57
 image: /assets/images/bremner-treatise.jpg
 tileable: true
 nav-menu: true
+og_title: "A Reading List for Scottish-Baroque Fiddlers"
+ot_description: ""
+og_image: /assets/images/bremner-treatise.jpg
+content_type: Article
 order: 5
 ---
 
@@ -52,6 +56,23 @@ order: 5
 
 ## Musicology
 
+### Scottish Musical Signatures
+
+* ["Scotch Snaps: The Big Picture"](http://tagg.org/ptavmat.htm#ScotchSnap), a documentary by Philip Tagg
+
+* ["Unravelling the Birl: Using Basic Computer Technology to Understand Traditional Fiddle Decorations"](http://www.academia.edu/7328128/Unraveling_the_Birl_using_basic_computer_technology_to_understand_traditional_fiddle_decorations) by Stuart Eydmann ([PDF here](http://aura.abdn.ac.uk/bitstream/handle/2164/5005/Play_It_Like_It_Is_2006_Ch._5_Eydmann_.pdf;jsessionid=0A5CF82D20A48A206F6E56B71812C599?sequence=1))
+
+* ["Bass Culture in Scottish Musical Traditions"](https://www.academia.edu/23096209/Bass_Culture_in_Scottish_Musical_Traditions) by Barnaby Brown
+
+
+### Taxonomy Issues
+
+* [*The Invention of 'Folk Music' and 'Art Music'*](http://amzn.to/2boQtkh) by Matthew Gelbart
+
+* ["'File Under Celtic': The Uses and Misuses of a Musical Myth, 1882-1999"](https://www.jstor.org/stable/44160363) by Michael D. Nicholsen
+
+### Strathspey Origins
+
 * ["Reeling in the Strathspey: The Origins of Scotland's National Music"](http://www.academia.edu/4007917/Reeling_in_the_Strathspey_The_Origins_of_Scotlands_National_Music) by William Lamb
 
 * ["The Origins of the Strathspey: A Rebuttal"](https://virtualgael.wordpress.com/2014/01/04/the-origins-of-the-strathspey-a-rebuttal/) by Michael Newton
@@ -60,41 +81,9 @@ order: 5
 
 * ["Grafting Culture: On the Development and Diffusion of the Strathspey in Scottish Music"](http://www.academia.edu/6722187/Grafting_Culture_On_the_Development_and_Diffusion_of_the_Strathspey_in_Scottish_Music) by William Lamb
 
-* ["Scotch Snaps: The Big Picture"](http://tagg.org/ptavmat.htm#ScotchSnap), a documentary by Philip Tagg
-
-* ["Unravelling the Birl: Using Basic Computer Technology to Understand Traditional Fiddle Decorations"](http://www.academia.edu/7328128/Unraveling_the_Birl_using_basic_computer_technology_to_understand_traditional_fiddle_decorations) by Stuart Eydmann ([PDF here](http://aura.abdn.ac.uk/bitstream/handle/2164/5005/Play_It_Like_It_Is_2006_Ch._5_Eydmann_.pdf;jsessionid=0A5CF82D20A48A206F6E56B71812C599?sequence=1))
-
-* [*The Invention of 'Folk Music' and 'Art Music'*](http://amzn.to/2boQtkh) by Matthew Gelbart
-
-* ["Bass Culture in Scottish Musical Traditions"](https://www.academia.edu/23096209/Bass_Culture_in_Scottish_Musical_Traditions) by Barnaby Brown
+### Instrument-Specific
 
 * [*The Flute in Musical Life in Eighteenth-Century Scotland*](http://theses.gla.ac.uk/7351/) by Elizabeth Ford
-
-* ["'File Under Celtic': The Uses and Misuses of a Musical Myth, 1882-1999"](https://www.jstor.org/stable/44160363) by Michael D. Nicholsen
-
-
-## Philosophy of Baroque Music-Making
-
-* [*The End of Early Music*](http://amzn.to/2aRAHwT) by Bruce Haynes
-
-* [*The Weapons of Rhetoric*](http://amzn.to/2aOsdng) by Judy Tarling
-
-## Playing the Baroque Violin
-
-
-* [*Baroque String Playing for Ingenious Learners*](http://amzn.to/2aOshmY) by Judy Tarling
-
-* [*Before the Chinrest: A Violinist's Guide to the Mysteries of Pre-Chinrest Technique and Style*](http://amzn.to/2bdVrAV) by Stanley Ritchie
-
-* [*The Art of Playing the Violin*](http://imslp.org/wiki/The_Art_of_Playing_on_the_Violin%2C_Op.9_(Geminiani%2C_Francesco\)) by Francesco Geminiani
-
-## Scottish-Specific Treatises
-
-* ["Some Thoughts on the Performance of Concert Music"](https://doi.org/10.1093/earlyj/7.1.48) by Robert Bremner
-
-* ["A Dissertation on the Scottish Music"](https://books.google.com/books?id=clTu2o-nhX8C&pg=PA193#v=onepage&q&f=false) by William Tytler
-
-* [*A Compleat Theory of the Scots Highland Bagpipe*](https://amzn.to/2GMWSpr) by Joseph MacDonald
 
 * [Much useful information on the guitar (cittern)](https://robmackillop.net/guitar/18th-century-wire-strung-guittar/) compiled by Rob MacKillop
 
@@ -103,6 +92,30 @@ order: 5
 * [*The Strathspey, Reel, and Hornpipe Tutor*](https://amzn.to/2qkUATq) by William Honeyman (*not* Scottish-Baroque, but contains interesting semi-historical information)
 
 * [*A Manual for the Learning of Traditional Scottish Fiddling: Design, Development, and Effectiveness*](https://etd.ohiolink.edu/!etd.send_file?accession=osu1299300924&disposition=inline) by Melinda Crawford Perttu
+
+
+## Philosophy of Baroque Musicking
+
+* [*The End of Early Music*](http://amzn.to/2aRAHwT) by Bruce Haynes
+
+* [*The Weapons of Rhetoric*](http://amzn.to/2aOsdng) by Judy Tarling
+
+## Playing the Baroque Violin
+
+* [*Baroque String Playing for Ingenious Learners*](http://amzn.to/2aOshmY) by Judy Tarling
+
+* [*Before the Chinrest: A Violinist's Guide to the Mysteries of Pre-Chinrest Technique and Style*](http://amzn.to/2bdVrAV) by Stanley Ritchie
+
+* [*The Art of Playing the Violin*](http://imslp.org/wiki/The_Art_of_Playing_on_the_Violin%2C_Op.9_(Geminiani%2C_Francesco\)) by Francesco Geminiani (note: Geminiani was Robert Bremner's private teacher)
+
+## Period Scottish Treatises
+
+* ["Some Thoughts on the Performance of Concert Music"](https://doi.org/10.1093/earlyj/7.1.48) by Robert Bremner
+
+* ["A Dissertation on the Scottish Music"](https://books.google.com/books?id=clTu2o-nhX8C&pg=PA193#v=onepage&q&f=false) by William Tytler
+
+* [*A Compleat Theory of the Scots Highland Bagpipe*](https://amzn.to/2GMWSpr) by Joseph MacDonald
+
 
 ## Blogs of Note
 
