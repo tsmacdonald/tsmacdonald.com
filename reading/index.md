@@ -60,10 +60,9 @@ order: 5
 
 * ["Scotch Snaps: The Big Picture"](http://tagg.org/ptavmat.htm#ScotchSnap), a documentary by Philip Tagg
 
-* ["Unravelling the Birl: Using Basic Computer Technology to Understand Traditional Fiddle Decorations"](http://www.academia.edu/7328128/Unraveling_the_Birl_using_basic_computer_technology_to_understand_traditional_fiddle_decorations) by Stuart Eydmann ([PDF here](http://aura.abdn.ac.uk/bitstream/handle/2164/5005/Play_It_Like_It_Is_2006_Ch._5_Eydmann_.pdf;jsessionid=0A5CF82D20A48A206F6E56B71812C599?sequence=1))
-
 * ["Bass Culture in Scottish Musical Traditions"](https://www.academia.edu/23096209/Bass_Culture_in_Scottish_Musical_Traditions) by Barnaby Brown
 
+* ["Unravelling the Birl: Using Basic Computer Technology to Understand Traditional Fiddle Decorations"](http://www.academia.edu/7328128/Unraveling_the_Birl_using_basic_computer_technology_to_understand_traditional_fiddle_decorations) by Stuart Eydmann ([PDF here](http://aura.abdn.ac.uk/bitstream/handle/2164/5005/Play_It_Like_It_Is_2006_Ch._5_Eydmann_.pdf;jsessionid=0A5CF82D20A48A206F6E56B71812C599?sequence=1))
 
 ### Taxonomy Issues
 
@@ -87,11 +86,11 @@ order: 5
 
 * [Much useful information on the guitar (cittern)](https://robmackillop.net/guitar/18th-century-wire-strung-guittar/) compiled by Rob MacKillop
 
-* [*A Guide to Bowing*](https://amzn.to/2JAIUof) by James Scott Skinner (*not* Scottish-Baroque), and [its review](/docs/eydmann-skinner-guide-to-bowing-review.pdf) by Stuart Eydmann
+* [*A Guide to Bowing*](https://amzn.to/2JAIUof) by James Scott Skinner (post-Baroque Scottish), and [its review](/docs/eydmann-skinner-guide-to-bowing-review.pdf) by Stuart Eydmann
 
-* [*The Strathspey, Reel, and Hornpipe Tutor*](https://amzn.to/2qkUATq) by William Honeyman (*not* Scottish-Baroque, but contains interesting semi-historical information)
+* [*The Strathspey, Reel, and Hornpipe Tutor*](https://amzn.to/2qkUATq) by William Honeyman (post-Baroque Scottish, but contains interesting semi-historical information)
 
-* [*A Manual for the Learning of Traditional Scottish Fiddling: Design, Development, and Effectiveness*](https://etd.ohiolink.edu/!etd.send_file?accession=osu1299300924&disposition=inline) by Melinda Crawford Perttu
+* [*A Manual for the Learning of Traditional Scottish Fiddling: Design, Development, and Effectiveness*](https://etd.ohiolink.edu/!etd.send_file?accession=osu1299300924&disposition=inline) by Melinda Crawford Perttu (modern Scottish)
 
 
 ## Philosophy of Baroque Musicking
@@ -100,6 +99,10 @@ order: 5
 
 * [*The Weapons of Rhetoric*](http://amzn.to/2aOsdng) by Judy Tarling
 
+* [*Text & Act*](https://amzn.to/2HrVRAm) by Richard Taruskin
+
+* [*The Notation is Not the Music*](https://amzn.to/2GQzDed) by Barthold Kuijken
+
 ## Playing the Baroque Violin
 
 * [*Baroque String Playing for Ingenious Learners*](http://amzn.to/2aOshmY) by Judy Tarling
@@ -107,6 +110,15 @@ order: 5
 * [*Before the Chinrest: A Violinist's Guide to the Mysteries of Pre-Chinrest Technique and Style*](http://amzn.to/2bdVrAV) by Stanley Ritchie
 
 * [*The Art of Playing on the Violin*](http://imslp.org/wiki/The_Art_of_Playing_on_the_Violin%2C_Op.9_(Geminiani%2C_Francesco\)) by Francesco Geminiani (note: Geminiani was Robert Bremner's private teacher)
+
+## Non-Scottish Baroque Treatises
+
+* [*On Playing the Flute*](https://amzn.to/2GPxDmk) by Johann Joachim Quantz (PDF [here](https://www.scribd.com/document/273926415/Quantz-On-playing-the-flute))
+
+* [*A Treatise on the Fundamental Principles of Violin Playing](https://amzn.to/2qozHXC) by Leopold Mozart (original facsimiles in German [here](http://imslp.org/wiki/Versuch_einer_gr%C3%BCndlichen_Violinschule_(Mozart,_Leopold\)))
+
+* [*On Performance Practice*](https://amzn.to/2GSKmRk) by Georg Muffat
+
 
 ## Period Scottish Treatises
 
