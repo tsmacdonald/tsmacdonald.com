@@ -82,6 +82,10 @@ order: 5
 
 ### Instrument-Specific
 
+* [*The Master Piper: Nine Notes that Shook the World*](http://www.dragonflymusic.co.uk/masterpiper.html) by Matt Seattle, regarding the William Dixon MS and early border piping
+
+* [*Out of the Flames*](http://www.goodbagpipes.com/index.php/otf), an essay collection on the William Dixon MS (of major interest to non-pipers)
+
 * [*The Flute in Musical Life in Eighteenth-Century Scotland*](http://theses.gla.ac.uk/7351/) by Elizabeth Ford
 
 * [Much useful information on the guitar (cittern)](https://robmackillop.net/guitar/18th-century-wire-strung-guittar/) compiled by Rob MacKillop
@@ -115,7 +119,7 @@ order: 5
 
 * [*On Playing the Flute*](https://amzn.to/2GPxDmk) by Johann Joachim Quantz (PDF [here](https://www.scribd.com/document/273926415/Quantz-On-playing-the-flute))
 
-* [*A Treatise on the Fundamental Principles of Violin Playing](https://amzn.to/2qozHXC) by Leopold Mozart (original facsimiles in German [here](http://imslp.org/wiki/Versuch_einer_gr%C3%BCndlichen_Violinschule_(Mozart,_Leopold\)))
+* [*A Treatise on the Fundamental Principles of Violin Playing*](https://amzn.to/2qozHXC) by Leopold Mozart (original facsimiles in German [here](http://imslp.org/wiki/Versuch_einer_gr%C3%BCndlichen_Violinschule_(Mozart,_Leopold\)))
 
 * [*On Performance Practice*](https://amzn.to/2GSKmRk) by Georg Muffat
 
