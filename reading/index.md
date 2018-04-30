@@ -64,6 +64,8 @@ order: 5
 
 * ["Unravelling the Birl: Using Basic Computer Technology to Understand Traditional Fiddle Decorations"](http://www.academia.edu/7328128/Unraveling_the_Birl_using_basic_computer_technology_to_understand_traditional_fiddle_decorations) by Stuart Eydmann ([PDF here](http://aura.abdn.ac.uk/bitstream/handle/2164/5005/Play_It_Like_It_Is_2006_Ch._5_Eydmann_.pdf;jsessionid=0A5CF82D20A48A206F6E56B71812C599?sequence=1))
 
+* ["Harmonic Proportion"](/docs/seattle-harmonic-proportion.pdf) by Matt Seattle; taken from [*The Master Piper*](http://www.dragonflymusic.co.uk/masterpiper.html) (see below)
+
 ### Taxonomy Issues
 
 * [*The Invention of 'Folk Music' and 'Art Music'*](http://amzn.to/2boQtkh) by Matthew Gelbart
@@ -115,7 +117,7 @@ order: 5
 
 * [*The Art of Playing on the Violin*](http://imslp.org/wiki/The_Art_of_Playing_on_the_Violin%2C_Op.9_(Geminiani%2C_Francesco\)) by Francesco Geminiani (note: Geminiani was Robert Bremner's private teacher)
 
-## Non-Scottish Baroque Treatises
+## Non-Scottish Period Treatises
 
 * [*On Playing the Flute*](https://amzn.to/2GPxDmk) by Johann Joachim Quantz (PDF [here](https://www.scribd.com/document/273926415/Quantz-On-playing-the-flute))
 
