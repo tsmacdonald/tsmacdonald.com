@@ -5,6 +5,7 @@ date: 2016-08-12 14:57
 image: /assets/images/bremner-treatise.jpg
 tileable: true
 nav-menu: true
+order: 6
 og_title: "A Reading List for Scottish-Baroque Fiddlers"
 og_description: "Books, papers, and articles about Scottish fiddling in the 18th century"
 og_image: /assets/images/bremner-treatise.jpg
