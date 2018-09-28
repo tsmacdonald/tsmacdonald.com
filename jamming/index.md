@@ -24,21 +24,15 @@ Scottish style might find it useful to look over the collection of [tunes we'll 
 
 ## Upcoming Dates
 
-* January 16
+* October 9
 
-* January 30
+* October 16
 
-* **Not February 13**
+* October 30
 
-* February 27
+* November 13
 
-* March 13
+* November 27
 
-* March 27
-
-* April 10
-
-* April 24
-
-* May 8, then summer recess
+* December 11
 
