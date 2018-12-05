@@ -24,15 +24,25 @@ Scottish style might find it useful to look over the collection of [tunes we'll 
 
 ## Upcoming Dates
 
-* October 9
-
-* October 16
-
-* October 30
-
-* November 13
-
-* November 27
-
 * December 11
+
+* January 8
+
+* January 22
+
+* February 5
+
+* February 19
+
+* March 5
+
+* **No jam on March 19**
+
+* April 2
+
+* April 16
+
+* April 30
+
+
 
