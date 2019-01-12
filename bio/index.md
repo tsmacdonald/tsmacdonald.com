@@ -20,16 +20,16 @@ Turner](http://www.fiddletree-music.com/johnturner.html) & [Dr. Melinda Crawford
 Tim Macdonald is a regular performer, scholar, composer, and teacher of early Scottish fiddle music.
 
 Tim was the first US National Scottish Fiddling Champion to win on a Baroque violin, and his performances with [Trio
-Settecento](http://www.triosettecento.com/), [Susie Petrov](http://susiepetrov.com/), [Colyn
-Fischer](http://www.scotsduo.com/), the [Bach and Beethoven Experience](http://www.bbexperience.org/), and many others have
-taken him from New York City's Frick Collection to the villages of Indonesia, countless country and contra dances,
-Scotland's Blair Castle, and beyond. Recent projects include helping to perform Scotland's first opera, <i>The Gentle
-Shepherd</i>, in full for the first time in over two centuries, lecturing on applying the rhetorical ideas of the
-Scottish Enlightenment to modern fiddling, playing fully-staged Elizabethan jigs with [Steve
+Settecento](http://www.triosettecento.com/), [Susie Petrov](http://susiepetrov.com/), [The Newberry
+Consort](https://newberryconsort.org/), [Dave Wiesler](http://davewiesler.com/), and many others have taken him from New
+York City's Frick Collection to the villages of Indonesia, countless country and contra dances, Scotland's Blair Castle,
+and beyond. Favorite projects include helping to perform Scotland's first opera, <i>The Gentle Shepherd</i>, in full for
+the first time in over two centuries, lecturing on applying the rhetorical ideas of the Scottish Enlightenment to modern
+fiddling, playing fully-staged Elizabethan jigs with [Steve
 Player](http://www.strangeandancientinstruments.com/page3/styled-4/index.html), joining classical superstar <a
 href="http://rachelbartonpine.com/">Rachel Barton Pine</a> for an encore of traditional tunes following her performance
-of Bruch's *Scottish Fantasy*, and serving as music and dancing master at a thoroughly-researched recreation of a
-1770s American tavern.  His radio appearances include WQXR classical radio (New York City), BBC Scotland's <i>Take the
+of Bruch's *Scottish Fantasy*, and serving as music and dancing master at a thoroughly-researched recreation of a 1770s
+American tavern.  His radio appearances include WQXR classical radio (New York City), BBC Scotland's <i>Take the
 Floor</i>, WGN & WDCB (Chicago), and WBOM (Rockford).
 
 His debut album, [*The Wilds*](http://www.timandjeremy.com/wilds) (with cellist [Jeremy
@@ -59,5 +59,4 @@ and Lila Weinberg Fellow at the [Newberry Library](http://newberry.org/), has pr
 College (IL), High Point University (NC), the National Centre for Excellence in Traditional Music (Plockton, Scotland),
 and elsewhere.  He also plays the viola d'amore, harpsichord, and concertina, serves on the
 board of the [Great Lakes Baroque](http://www.greatlakesbaroque.org/) (with artistic director [Jory
-Vinikour](http://www.joryvinikour.com)) and on the leadership team of his local church, and is an award-winning software
-developer.
+Vinikour](http://www.joryvinikour.com)), and is an award-winning software developer.
