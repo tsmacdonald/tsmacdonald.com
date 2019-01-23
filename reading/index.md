@@ -65,7 +65,7 @@ order: 5
 
 * ["Unravelling the Birl: Using Basic Computer Technology to Understand Traditional Fiddle Decorations"](http://www.academia.edu/7328128/Unraveling_the_Birl_using_basic_computer_technology_to_understand_traditional_fiddle_decorations) by Stuart Eydmann ([PDF here](http://aura.abdn.ac.uk/bitstream/handle/2164/5005/Play_It_Like_It_Is_2006_Ch._5_Eydmann_.pdf;jsessionid=0A5CF82D20A48A206F6E56B71812C599?sequence=1))
 
-* ["Harmonic Proportion"](/docs/seattle-harmonic-proportion.pdf) by Matt Seattle; taken from [*The Master Piper*](http://www.dragonflymusic.co.uk/masterpiper.html) (see below)
+* ["Harmonic Proportion"](/assets/docs/seattle-harmonic-proportion.pdf) by Matt Seattle; taken from [*The Master Piper*](http://www.dragonflymusic.co.uk/masterpiper.html) (see below)
 
 ### Taxonomy Issues
 
@@ -93,7 +93,7 @@ order: 5
 
 * [Much useful information on the guitar (cittern)](https://robmackillop.net/guitar/18th-century-wire-strung-guittar/) compiled by Rob MacKillop
 
-* [*A Guide to Bowing*](https://amzn.to/2JAIUof) by James Scott Skinner (post-Baroque Scottish), and [its review](/docs/eydmann-skinner-guide-to-bowing-review.pdf) by Stuart Eydmann
+* [*A Guide to Bowing*](https://amzn.to/2JAIUof) by James Scott Skinner (post-Baroque Scottish), and [its review](/assets/docs/eydmann-skinner-guide-to-bowing-review.pdf) by Stuart Eydmann
 
 * [*The Strathspey, Reel, and Hornpipe Tutor*](https://amzn.to/2qkUATq) by William Honeyman (post-Baroque Scottish, but contains interesting semi-historical information)
 
