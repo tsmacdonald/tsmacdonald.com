@@ -36,7 +36,7 @@ Scottish style might find it useful to look over the collection of [tunes we'll 
 
 * March 5
 
-* **No jam on March 19**
+* March 19
 
 * April 2
 
