@@ -7,7 +7,7 @@ order: 4
 nav-menu: true
 ---
 
-<h2>Biography</h2>
+<h2>The Chicago Scottish Jam</h2>
 
 <figure class="image right">
   <a href="/assets/images/dopjam.jpg">
