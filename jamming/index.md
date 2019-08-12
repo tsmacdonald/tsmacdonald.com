@@ -15,8 +15,9 @@ nav-menu: true
   </a>
 </figure>
 
-In collaboration with the [Illinois St. Andrew Society](http://www.chicagoscots.org/), Tim is leading a Scottish jam
-session on certain Tuesdays.
+In collaboration with the [Illinois St. Andrew
+Society](http://www.chicagoscots.org/), Tim or accordionist Richard MacDonald
+are leading a Scottish jam session on certain Tuesdays.
 
 All sessions will take place at the [Duke of Perth](http://dukeofperth.com/) in Lakeview East (2913 N Clark St), begin
 at 7PM, and run until 9 or so.  Everyone is encouraged to play their favorite Scottish tunes, but newcomers to the
@@ -24,25 +25,26 @@ Scottish style might find it useful to look over the collection of [tunes we'll 
 
 ## Upcoming Dates
 
-* December 11
+* August 13 (Rich)
 
-* January 8
+* August 27 (Rich)
 
-* January 22
+* September 10
 
-* February 5
+* September 24
 
-* February 19
+* October 8 (Rich)
 
-* March 5
+* October 22 (probably Rich)
 
-* March 19
+* November 5 (probably Rich)
 
-* April 2
+* November 19
 
-* April 16
+* December 3
 
-* April 30
+* December 17
 
+* _NOT_ on December 31: enjoy Hogmanay!
 
-
+*
