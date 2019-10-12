@@ -24,9 +24,12 @@ at 7PM, and run until 9 or so. Some of us arrive around 6 for dinner, feel free 
 
 Everyone is encouraged to play their favorite Scottish tunes, but newcomers to the
 Scottish style might find it useful to look over the collection of [tunes we'll probably
-play](/assets/docs/jam-tunes.pdf).  We try to be aggressively welcoming to new players of all abilities: the jam is
+play](/assets/docs/jam-tunes.pdf). We try to be aggressively welcoming to new players of all abilities: the jam is
 usually a mix of professional musicians (either in folk or classical music), amateurs, and even beginners who just play
 open strings in the right key. We'll always figure out how to get you involved if you show up with an instrument!
+
+Almost any instrument is welcome—while many of us do play fiddle, we've had tin whistlers, cellists, guitarists,
+pianists, flutists, players of diverse squeezeboxes, bodhran players, smallpipers, and many other people show up!
 
 ## Upcoming Dates
 
@@ -40,9 +43,9 @@ open strings in the right key. We'll always figure out how to get you involved i
 
 * October 8 (Rich)
 
-* October 22 (probably Rich)
+* October 22 (Rich)
 
-* November 5 (probably Rich)
+* November 5 (Rich)
 
 * November 19
 
@@ -52,4 +55,3 @@ open strings in the right key. We'll always figure out how to get you involved i
 
 * _NOT_ on December 31: enjoy Hogmanay!
 
-*
