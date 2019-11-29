@@ -33,25 +33,30 @@ pianists, flutists, players of diverse squeezeboxes, bodhran players, smallpiper
 
 ## Upcoming Dates
 
-* August 13 (Rich) **from 8-10pm**
-
-* August 27 (Rich) **from 8-10pm**
-
-* September 10 (back to the normal 7-9pm)
-
-* September 24
-
-* October 8 (Rich)
-
-* October 22 (Rich)
-
-* November 5 (Rich)
-
-* November 19
-
 * December 3
 
 * December 17
 
 * _NOT_ on December 31: enjoy Hogmanay!
 
+* January 7 (Tim's birthday jam)
+
+* January 21
+
+* February 4
+
+* February 18
+
+* March 3
+
+* March 17 (Niel Gow's birthday jam)
+
+* March 31
+
+* April 14
+
+* April 28
+
+* May 12
+
+_Rich will take over summer jamming—dates TBD!_
