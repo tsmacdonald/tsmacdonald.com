@@ -77,11 +77,13 @@ order: 5
 
 * ["Reeling in the Strathspey: The Origins of Scotland's National Music"](http://www.academia.edu/4007917/Reeling_in_the_Strathspey_The_Origins_of_Scotlands_National_Music) by William Lamb
 
-* ["The Origins of the Strathspey: A Rebuttal"](https://virtualgael.wordpress.com/2014/01/04/the-origins-of-the-strathspey-a-rebuttal/) by Michael Newton
+* ["The Origins of the Strathspey: A Rebuttal"](/assets/docs/newton-origins-of-the-strathspey-a-rebuttal.pdf) by Michael Newton
 
 * ["A Response to Newton's 'The Origins of the Strathspey: A Rebuttal"](http://www.academia.edu/9130337/A_Response_to_Newton_s_The_Origins_of_the_Strathspey_A_Rebuttal_) by William Lamb
 
 * ["Grafting Culture: On the Development and Diffusion of the Strathspey in Scottish Music"](http://www.academia.edu/6722187/Grafting_Culture_On_the_Development_and_Diffusion_of_the_Strathspey_in_Scottish_Music) by William Lamb
+
+* ["Strathspeys, Reels, and Strathspey Reels: Clarifiying Dance Music in Lowland Scotland 1750-1833"](/assets/docs/macdonald-strathspeys-reels-strathspey-reels.pdf) by Timothy S. Macdonald
 
 ### Instrument-Specific
 
