@@ -88,7 +88,7 @@ nav-menu: true
           <header class="major">
             <h3>Tune Commissions</h3>
           </header>
-          <p>Want your own fiddle tune composed by Tim? Commission a tune of whatever type, key, and character you want! $500 purchase includes a PDF of the sheet music and video of Tim playing it.</p>
+          <p>Want your own fiddle tune composed by Tim? Commission a tune of whatever type, key, and character you want! $250 purchase includes a PDF of the sheet music and video of Tim playing it.</p>
           <ul class="actions">
             <li>
               <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
