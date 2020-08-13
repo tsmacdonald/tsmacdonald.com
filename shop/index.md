@@ -14,7 +14,7 @@ nav-menu: true
 
   <!-- Two -->
   <section id="two" class="spotlights">
-    <section>
+    <section id="wilds">
       <a href="http://www.timandjeremy.com/wilds" class="image">
         <img src="/assets/images/wilds_cover.jpg" alt="" data-position="center center" />
       </a>
@@ -65,7 +65,7 @@ nav-menu: true
         </div>
       </div>
     </section>
-    <section>
+    <section id="tune-collection">
       <a href="https://gumroad.com/l/fiddle" class="image">
         <img src="/assets/images/tunes_cover.jpg" alt="" data-position="top center" />
       </a>
@@ -81,7 +81,7 @@ nav-menu: true
         </div>
       </div>
     </section>
-    <section>
+    <section id="tune-commissions">
       <img src="/assets/images/mick.jpg" alt="" data-position="top center" />
       <div class="content">
         <div class="inner">
@@ -98,6 +98,21 @@ nav-menu: true
               <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
               </form>
             </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    <section id="dance-tunes">
+      <img src="/assets/images/panurge.jpg" alt="" data-position="top center" />
+      <div class="content">
+        <div class="inner">
+          <header class="major">
+            <h3>Historical Dance Recordings</h3>
+          </header>
+          <p>Tim is occasionally asked to make danceable recordings of rare tunes, which can be downloaded and used at dances for a small fee (click each track to hear or buy it):</p>
+
+          <ul>
+          <li><a href="https://tsmacdonald.bandcamp.com/track/la-panurge-john-gow" target="_blank"><em>La Panurge</em> from John Gow's <em>For the Year 1788: 12 Favorite Country Dances & 4 Cotilions</em></a></li>
           </ul>
         </div>
       </div>
