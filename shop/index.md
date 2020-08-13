@@ -112,7 +112,7 @@ nav-menu: true
           <p>Tim is occasionally asked to make danceable recordings of rare tunes, which can be downloaded and used at dances for a small fee (click each track to hear or buy it):</p>
 
           <ul>
-          <li><a href="https://tsmacdonald.bandcamp.com/track/la-panurge-john-gow" target="_blank"><em>La Panurge</em> from John Gow's <em>For the Year 1788: 12 Favorite Country Dances & 4 Cotilions</em></a></li>
+          <li><a href="https://tsmacdonald.bandcamp.com/album/la-panurge" target="_blank"><em>La Panurge</em> from John Gow's <em>For the Year 1788: 12 Favorite Country Dances & 4 Cotilions</em></a></li>
           </ul>
         </div>
       </div>
