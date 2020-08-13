@@ -103,7 +103,7 @@ nav-menu: true
       </div>
     </section>
     <section id="dance-tunes">
-      <img src="/assets/images/gow-john-1788.jpg" alt="" data-position="top center" />
+      <img src="/assets/images/gow-1-cover.jpg" alt="" data-position="top center" />
       <div class="content">
         <div class="inner">
           <header class="major">
