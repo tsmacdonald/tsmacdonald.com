@@ -15,17 +15,16 @@ nav-menu: true
   <!-- Two -->
   <section id="two" class="spotlights">
     <section id="wilds">
-      <a href="http://www.timandjeremy.com/wilds" class="image">
-        <img src="/assets/images/wilds_cover.jpg" alt="" data-position="center center" />
-      </a>
+      <div class="video-player" style="width: 100%">
+        <figure>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/VN73UrmznUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </figure>
+      </div>
       <div class="content">
         <div class="inner">
           <header class="major">
             <h3>The Wilds</h3>
           </header>
-          <div class="cdbaby-embed">
-            <iframe id="cdbaby-widget" name="mini" style="border:0px;width:100%;height:100px;" src="//widget.cdbaby.com/68eb63be-4416-4ae3-8c41-b52283280ac7/mini/dark/opaque"></iframe>
-          </div>
           <blockquote>
             The Scottish Music does no less honour to the genius of the country.
             The old Scottish songs have always been admired for the wild pathetic
@@ -57,6 +56,18 @@ nav-menu: true
               <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                 <input type="hidden" name="cmd" value="_s-xclick">
                 <input type="hidden" name="hosted_button_id" value="WAJU3DL9ZCRBN">
+                <div>
+                  <input type="hidden" name="on0" value="Choose a Price">Choose a Price:
+                </div>
+                <div style="margin-bottom: 1em">
+                  <select name="os0">
+                    <option value="Clearance Price (US) |">Clearance Price (US) | $10.00 USD</option>
+                    <option value="Clearance (International) |">Clearance (International) | $20.00 USD</option>
+                    <option value="Regular Price |">Regular Price | $20.00 USD</option>
+                    <option value="With extra donation, thank you! |">With extra donation, thank you! | $30.00 USD</option>
+                  </select>
+                </div>
+                <input type="hidden" name="currency_code" value="USD">
                 <input type="image" class="buynow-image" src="/assets/images/buynow.png" border="0" name="submit" alt="Buy The Wilds Now!">
                 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
               </form>
