@@ -37,3 +37,4 @@ markdown: kramdown
 sass:
   style: compressed
 
+include: ['short-bio']

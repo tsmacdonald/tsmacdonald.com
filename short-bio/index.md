@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Biography
-image: /assets/images/mtvernon.jpg
-tileable: true
+title: Biography (Short)
+tileable: false
 order: 2
-nav-menu: true
+nav-menu: false
 ---
 
 <h2>Biography</h2>
