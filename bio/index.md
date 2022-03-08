@@ -32,10 +32,23 @@ of Bruch's *Scottish Fantasy*, and serving as music and dancing master at a thor
 American tavern.  His radio appearances include WQXR classical radio (New York City), BBC Scotland's <i>Take the
 Floor</i>, WGN & WDCB (Chicago), and WBOM (Rockford).
 
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4042276712/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/transparent=true/" seamless>
+  <a href="https://tsmacdonald.bandcamp.com/album/the-wilds">
+    The Wilds by Tim Macdonald &amp; Jeremy Ward
+  </a>
+</iframe>
+
 His debut album, [*The Wilds*](http://www.timandjeremy.com/wilds) (with cellist [Jeremy
 Ward](http://www.jeremydavidward.com)), celebrates the diversity of Scottish fiddle music in the 18th century, and has
 been described as "fresh and yet authentic sounding" ([Dr. John Purser](http://www.johnpurser.net/)) and "a belter"
 ([Dr. David McGuinness](https://www.gla.ac.uk/schools/cca/staff/davidmcguinness/)).
+
+He is a past chairman of the Chicago Branch of the Royal Scottish Country Dance Society and Musician-in-Residence for the
+Oak Park English Country Dancers, and is in demand for SCD balls, English country dances, contras, and "Playing for
+Dance" workshops in the US and Scotland. He is perennially in charge of dance music at [The Jink and Diddle School of
+Scottish Fiddling](http://www.jinkdiddle.com) and has also played for [Scottish
+Sessions](http://rscdsboston.org/pinewoods-scottish-sessions.html) and [English-Scottish-Contra
+Week](http://rscdsboston.org/pinewoods-esc.html) (ESCape) at Pinewoods.
 
 <div class="video-player">
   <figure>
@@ -43,11 +56,6 @@ been described as "fresh and yet authentic sounding" ([Dr. John Purser](http://w
   </figure>
 </div>
 
-He is the chairman of the Chicago Branch of the Royal Scottish Country Dance Society, the Musician-in-Residence for the
-Oak Park English Country Dancers, and is in demand for SCD balls, English country dances, contras, and "Playing for
-Dance" workshops across the country. He is perennially in charge of dance music at [The Jink and Diddle School of Scottish
-Fiddling](http://www.jinkdiddle.com) and has also played for [English-Scottish-Contra
-Week](http://rscdsboston.org/pinewoods-esc.html) (ESCape) at Pinewoods.
 
 In addition to performing, Tim runs a private teaching studio and teaches at fiddle camps and clubs, including [one he
 founded](/fiddle-camp). His compositions won first place at the first two Scottish FIRE Composition Competitions and are
@@ -57,6 +65,5 @@ with the experience of a top-level performer" ([Rachel Barton Pine](http://rache
 and Lila Weinberg Fellow at the [Newberry Library](http://newberry.org/), has presented papers at the Musica Scotica
 (Stirling) and NAFCo (Aberdeen) conferences in Scotland, and has guest lectured at Northwestern University (IL), Wheaton
 College (IL), High Point University (NC), the National Centre for Excellence in Traditional Music (Plockton, Scotland),
-and elsewhere.  He also plays the viola d'amore, harpsichord, and concertina, serves on the
-board of the [Great Lakes Baroque](http://www.greatlakesbaroque.org/) (with artistic director [Jory
-Vinikour](http://www.joryvinikour.com)), and is an award-winning software developer.
+and elsewhere. He is now a postgraduate researcher at the University of Edinburgh's School of Scottish Studies. He also
+plays the viola d'amore, harpsichord, and concertina and is an award-winning software developer.

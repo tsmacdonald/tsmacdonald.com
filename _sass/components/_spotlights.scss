@@ -55,8 +55,7 @@
 
 				> .inner {
 					margin: 0 auto;
-					max-width: 100%;
-					width: _size(inner);
+					//width: _size(inner); // This was causing overflow issues on the shop page
 				}
 			}
 

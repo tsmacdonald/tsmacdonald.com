@@ -15,11 +15,11 @@ nav-menu: true
   <!-- Two -->
   <section id="two" class="spotlights">
     <section id="wilds">
-      <div class="video-player" style="width: 100%">
-        <figure>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/VN73UrmznUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </figure>
-      </div>
+      <iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=4042276712/size=large/bgcol=333333/linkcol=0f91ff/artwork=small/transparent=true/" seamless>
+        <a href="https://tsmacdonald.bandcamp.com/album/the-wilds">
+          The Wilds by Tim Macdonald &amp; Jeremy Ward
+        </a>
+      </iframe>
       <div class="content">
         <div class="inner">
           <header class="major">
@@ -53,32 +53,37 @@ nav-menu: true
           </p>
           <ul class="actions">
             <li>
-              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="WAJU3DL9ZCRBN">
-                <div>
-                  <input type="hidden" name="on0" value="Choose a Price">Choose a Price:
-                </div>
-                <div style="margin-bottom: 1em">
-                  <select name="os0">
-                    <option value="Clearance Price (US) |">Clearance Price (US) | $10.00 USD</option>
-                    <option value="Clearance (International) |">Clearance (International) | $20.00 USD</option>
-                    <option value="Regular Price |">Regular Price | $20.00 USD</option>
-                    <option value="With extra donation, thank you! |">With extra donation, thank you! | $30.00 USD</option>
-                  </select>
-                </div>
-                <input type="hidden" name="currency_code" value="USD">
-                <input type="image" class="buynow-image" src="/assets/images/buynow.png" border="0" name="submit" alt="Buy The Wilds Now!">
-                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-              </form>
+              <a href="https://tsmacdonald.bandcamp.com/album/the-wilds" target="_blank" class="button">
+                Buy now on Bandcamp
+              </a>
             </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    <section id="gow-sessions">
+      <a href="https://tsmacdonald.bandcamp.com/album/the-niel-gow-sessions-full-and-uncensored" class="image">
+        <img src="/assets/images/gow-sessions.jpg" alt="" data-position="top center" class="image" />
+      </a>
+      <div class="content">
+        <div class="inner">
+          <header class="major">
+            <h3>The Gow Sessions</h3>
+          </header>
+          <p>Tim and Jeremy recorded the entirety of Niel Gow's <em>Third Collection of Strathspey Reels</em> and put
+          them <a href="https://www.youtube.com/playlist?list=PL-SGgCuXNtq45uzI6T4HwA5SW6-j-uPuV" target="_blank">on
+          Youtube</a>. They're also for sale as downloads below, either as the complete collection or as our "best of"
+          set.</p>
+          <ul class="actions">
+            <li><a href="https://tsmacdonald.bandcamp.com/album/the-niel-gow-sessions-full-and-uncensored" target="_blank" class="button">Buy Full Set</a></li>
+            <li><a href="https://tsmacdonald.bandcamp.com/album/the-best-of-the-niel-gow-sessions-2" target="_blank" class="button">Buy "Best Of"</a></li>
           </ul>
         </div>
       </div>
     </section>
     <section id="tune-collection">
       <a href="https://gumroad.com/l/fiddle" class="image">
-        <img src="/assets/images/tunes_cover.jpg" alt="" data-position="top center" />
+        <img src="/assets/images/tunes_cover.jpg" alt="" data-position="top center" class="image" />
       </a>
       <div class="content">
         <div class="inner">
@@ -93,7 +98,7 @@ nav-menu: true
       </div>
     </section>
     <section id="tune-commissions">
-      <img src="/assets/images/mick.jpg" alt="" data-position="top center" />
+      <img src="/assets/images/mick.jpg" alt="" data-position="top center" class="image" />
       <div class="content">
         <div class="inner">
           <header class="major">
@@ -114,7 +119,7 @@ nav-menu: true
       </div>
     </section>
     <section id="dance-tunes">
-      <img src="/assets/images/gow-1-cover.jpg" alt="" data-position="top center" />
+      <img src="/assets/images/gow-1-cover.jpg" alt="" data-position="top center" class="image" />
       <div class="content">
         <div class="inner">
           <header class="major">
