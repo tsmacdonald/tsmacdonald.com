@@ -2,7 +2,7 @@
 layout: page
 title: Chicago Scottish Jam
 image: /assets/images/dopjam.jpg
-tileable: true
+tileable: false
 order: 4
 nav-menu: true
 ---
@@ -14,6 +14,10 @@ nav-menu: true
     <img src="/assets/images/dopjam.jpg">
   </a>
 </figure>
+
+<em>Update: Tim no longer runs this jam session since moving to Scotland, but it continues under the leadership of Rich.
+I'm keeping this page up as a historical document, but get in touch with the Duke or Rich for the current state of
+play.</em>
 
 In collaboration with the [Illinois St. Andrew
 Society](http://www.chicagoscots.org/), Tim or accordionist Richard MacDonald
@@ -31,32 +35,3 @@ open strings in the right key. We'll always figure out how to get you involved i
 Almost any instrument is welcome—while many of us do play fiddle, we've had tin whistlers, cellists, guitarists,
 pianists, flutists, players of diverse squeezeboxes, bodhran players, smallpipers, and many other people show up!
 
-## Upcoming Dates
-
-* December 3
-
-* December 17
-
-* _NOT_ on December 31: enjoy Hogmanay!
-
-* January 7 (Tim's birthday jam)
-
-* January 21
-
-* February 4
-
-* February 18
-
-* March 3
-
-* March 17 (Niel Gow's birthday jam)
-
-* March 31
-
-* April 14
-
-* April 28
-
-* May 12
-
-_Rich will take over summer jamming—dates TBD!_

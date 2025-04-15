@@ -2,6 +2,7 @@
 layout: page
 title: Code & Coffee: Edinburgh
 tileable: false
+nav-menu: false
 ---
 
 ## Code and Coffee: Edinburgh Edition

@@ -81,6 +81,43 @@ nav-menu: true
         </div>
       </div>
     </section>
+    <section id="concal-ramsay">
+      <a href="https://concal.org/albums?view=article&id=1316:shepherds-tea-tables&catid=9:albums" class="image">
+        <img src="/assets/images/ramsay-cd.jpg" alt="" data-position="top center" class="image" />
+      </a>
+      <div class="content">
+        <div class="inner">
+          <header class="major">
+            <h3>Concerto Caledonia: Shepherds &amp; Tea Tables</h3>
+          </header>
+          <p>
+          "Songs of love, society, commerce and drinking from the poet, dramatist and cultural catalyst Allan Ramsay and his circle in 1720s Edinburgh."
+          </p>
+          <ul class="actions">
+            <li><a href="https://concal.org/albums?view=article&id=1316:shepherds-tea-tables&catid=9:albums" target="_blank" class="button">Buy from ConCal</a></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    <section id="edinburgh-100">
+      <a href="https://rscdsedinburgh.org/shop#100thAnniversaryCD" class="image">
+        <img src="/assets/images/edinburgh-100-cd.jpg" alt="" data-position="top center" class="image" />
+      </a>
+      <div class="content">
+        <div class="inner">
+          <header class="major">
+            <h3>RSCDS Edinburgh 100th Anniversary CD</h3>
+          </header>
+          <p>
+          Fourteen new dances devised to celebrate the Centenary of the Edinburgh Branch of the Royal Scottish Country
+          Dance Society.  The accompanying CD was recorded by Tim, Peter Shand, Muriel Johnstone, and Pete Clark.
+          </p>
+          <ul class="actions">
+            <li><a href="https://rscdsedinburgh.org/shop#100thAnniversaryCD" target="_blank" class="button">Buy in the RSCDS Edinburgh shop</a></li>
+          </ul>
+        </div>
+      </div>
+    </section>
     <section id="tune-collection">
       <a href="https://gumroad.com/l/fiddle" class="image">
         <img src="/assets/images/tunes_cover.jpg" alt="" data-position="top center" class="image" />
