@@ -18,13 +18,14 @@ That's what Code & Coffee is all about.
 
 <hr>
 
-Inspired by [its success in Chicago](https://push.cx/code-and-coffee), Tim is bringing it to Edinburgh and organising
+<em>This is on indefinite pause due to paternity leave!</em>
+<strike>Inspired by [its success in Chicago](https://push.cx/code-and-coffee), Tim is bringing it to Edinburgh and organising
 the Tuesday meetup on Lothian Rd. Wish it were on a different day or in a different location? Start one yourself!
 
 ### Tuesday, Lothian Rd
 
 <em>At Caffè Nero</em> Tuesdays, starting at 7:30am. First date is 14 January, 2025, and it will meet every Tuesday
-afterward unless otherwise noted.
+afterward unless otherwise noted.</strike>
 
 ### Your Code & Coffee here!
 
