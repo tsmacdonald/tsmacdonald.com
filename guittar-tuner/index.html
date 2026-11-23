@@ -1,0 +1,72 @@
+---
+layout: page
+title: English Guittar Tuner
+tileable: false
+nav-menu: false
+---
+
+<h2>Guittar Tuner</h2>
+
+<div id="tuner">
+  <!-- Just intonation: ratio to the low C (1, 5/4, 3/2, 2, 5/2, 3) -->
+  <button data-ratio="1">C</button>
+  <button data-ratio="1.25">E</button>
+  <button data-ratio="1.5">G</button>
+  <button data-ratio="2">c</button>
+  <button data-ratio="2.5">e</button>
+  <button data-ratio="3">g</button>
+</div>
+
+<style>
+  /* The theme upper-cases buttons, which would turn c/e/g into C/E/G */
+  #tuner button { text-transform: none; font-size: 1.5em; margin: 0 0.5em 0.5em 0; }
+</style>
+
+<script>
+  (function () {
+    var ctx, wave;
+    var playing = {};
+    // Reference pitch: the C below middle C, equal-tempered from A4 = 440 Hz. Change this to tune the whole set.
+    var lowC = 440 * Math.pow(2, -21 / 12);
+
+    function start(ratio) {
+      ctx = ctx || new AudioContext();
+      // Soft, string-like timbre: harmonics falling off as 1/n^2. The overtones make beats easy to hear.
+      if (!wave) {
+        var real = new Float32Array(9), imag = new Float32Array(9);
+        for (var n = 1; n < 9; n++) imag[n] = 1 / (n * n);
+        wave = ctx.createPeriodicWave(real, imag);
+      }
+      var osc = ctx.createOscillator();
+      var gain = ctx.createGain();
+      osc.setPeriodicWave(wave);
+      osc.frequency.value = lowC * ratio;
+      gain.gain.setValueAtTime(0, ctx.currentTime);
+      gain.gain.linearRampToValueAtTime(0.2, ctx.currentTime + 0.05); // fade in to avoid a click
+      osc.connect(gain).connect(ctx.destination);
+      osc.start();
+      return { osc: osc, gain: gain };
+    }
+
+    function stop(voice) {
+      var t = ctx.currentTime;
+      voice.gain.gain.setValueAtTime(voice.gain.gain.value, t);
+      voice.gain.gain.linearRampToValueAtTime(0, t + 0.1);
+      voice.osc.stop(t + 0.1);
+    }
+
+    document.querySelectorAll('#tuner button').forEach(function (b) {
+      b.addEventListener('click', function () {
+        var ratio = b.dataset.ratio;
+        if (playing[ratio]) {
+          stop(playing[ratio]);
+          delete playing[ratio];
+        } else {
+          playing[ratio] = start(+ratio);
+        }
+        b.classList.toggle('special', !!playing[ratio]);
+        b.setAttribute('aria-pressed', !!playing[ratio]);
+      });
+    });
+  })();
+</script>
