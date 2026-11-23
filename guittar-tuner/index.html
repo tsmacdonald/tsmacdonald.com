@@ -7,6 +7,8 @@ nav-menu: false
 
 <h2>Guittar Tuner</h2>
 
+<p><button id="pitch">A = 415</button></p>
+
 <div id="tuner">
   <!-- Just intonation: ratio to the low C (1, 5/4, 3/2, 2, 5/2, 3) -->
   <button data-ratio="1">C</button>
@@ -26,8 +28,9 @@ nav-menu: false
   (function () {
     var ctx, wave;
     var playing = {};
-    // Reference pitch: the C below middle C, equal-tempered from A4 = 440 Hz. Change this to tune the whole set.
-    var lowC = 440 * Math.pow(2, -21 / 12);
+    var a4 = 415;
+    // The C below middle C, equal-tempered from A4. All six notes are derived from it.
+    function lowC() { return a4 * Math.pow(2, -21 / 12); }
 
     function start(ratio) {
       ctx = ctx || new AudioContext();
@@ -40,7 +43,7 @@ nav-menu: false
       var osc = ctx.createOscillator();
       var gain = ctx.createGain();
       osc.setPeriodicWave(wave);
-      osc.frequency.value = lowC * ratio;
+      osc.frequency.value = lowC() * ratio;
       gain.gain.setValueAtTime(0, ctx.currentTime);
       gain.gain.linearRampToValueAtTime(0.2, ctx.currentTime + 0.05); // fade in to avoid a click
       osc.connect(gain).connect(ctx.destination);
@@ -67,6 +70,13 @@ nav-menu: false
         b.classList.toggle('special', !!playing[ratio]);
         b.setAttribute('aria-pressed', !!playing[ratio]);
       });
+    });
+
+    document.getElementById('pitch').addEventListener('click', function () {
+      a4 = a4 === 415 ? 440 : 415;
+      this.textContent = 'A = ' + a4;
+      // Retune anything already sounding
+      for (var r in playing) playing[r].osc.frequency.value = lowC() * r;
     });
   })();
 </script>
