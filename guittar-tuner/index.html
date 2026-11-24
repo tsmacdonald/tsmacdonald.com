@@ -9,7 +9,7 @@ nav-menu: false
 
 <p><button id="pitch">A = 415</button></p>
 
-<div id="tuner">
+<div id="tuner"><div class="notes">
   <!-- Just intonation: ratio to the low C (1, 5/4, 3/2, 2, 5/2, 3) -->
   <button data-ratio="1">C</button>
   <button data-ratio="1.25">E</button>
@@ -17,11 +17,18 @@ nav-menu: false
   <button data-ratio="2">c</button>
   <button data-ratio="2.5">e</button>
   <button data-ratio="3">g</button>
-</div>
+</div></div>
 
 <style>
   /* The theme upper-cases buttons, which would turn c/e/g into C/E/G */
-  #tuner button { text-transform: none; font-size: 1.5em; margin: 0 0.5em 0.5em 0; }
+  /* Fixed-width columns: otherwise each button is sized to its letter, and C, c, e, g are different widths.
+     Only 1, 2, 3 or 6 columns, so the rows are always even. n columns need 5.25n + 0.75(n - 1) em. */
+  #tuner { container-type: inline-size; }
+  #tuner .notes { display: grid; gap: 0.75em; grid-template-columns: 5.25em; margin-bottom: 2em; }
+  @container (min-width: 11.25em) { #tuner .notes { grid-template-columns: repeat(2, 5.25em); } }
+  @container (min-width: 17.25em) { #tuner .notes { grid-template-columns: repeat(3, 5.25em); } }
+  @container (min-width: 35.25em) { #tuner .notes { grid-template-columns: repeat(6, 5.25em); } }
+  #tuner button { text-transform: none; font-size: 1.5em; width: 100%; padding: 0; }
 </style>
 
 <script>
@@ -29,8 +36,10 @@ nav-menu: false
     var ctx, wave;
     var playing = {};
     var a4 = 415;
-    // The C below middle C, equal-tempered from A4. All six notes are derived from it.
-    function lowC() { return a4 * Math.pow(2, -21 / 12); }
+    // Sixth-comma meantone fifth: 3/2 narrowed by 1/6 of the syntonic comma (81/80).
+    var fifth = 1.5 * Math.pow(80 / 81, 1 / 6);
+    // The C below middle C. Three fifths up (C3-G3-D4-A4) is A4, so C3 = A4 / fifth^3. All six notes derive from it.
+    function lowC() { return a4 / Math.pow(fifth, 3); }
 
     function start(ratio) {
       ctx = ctx || new AudioContext();
